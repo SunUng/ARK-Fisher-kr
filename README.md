@@ -36,7 +36,7 @@
 http://ark.gamepedia.com/Fishing_Rod
 
 ## 영문버전 원본 스크립트
--영어 인터페이스 [Go] 원본 스크립트 (https://github.com/spencerjpotts/Ark-FisherMan)
--저자 사이트 [ark-fishing-script.org] (https://www.ark-fishing-script.org/)
+- 영어 인터페이스 [Go] 원본 스크립트 (https://github.com/spencerjpotts/Ark-FisherMan)
+- 저자 사이트 [ark-fishing-script.org] (https://www.ark-fishing-script.org/)
 
 [![Wokring](https://img.youtube.com/vi/bXqh7yuM1sk/0.jpg)](https://www.youtube.com/watch?v=bXqh7yuM1sk&feature=youtu.be)
