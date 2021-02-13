@@ -2,7 +2,7 @@
 아크서바이벌 이볼브드 낚시 도우미 오토핫키 스크립트입니다.
 
 ## 원본 공식 웹사이트
-[Official WEBSITE CLICK HERE](https://www.ark-fishing-script.org/)
+[공식웹사이트 클릭](https://www.ark-fishing-script.org/)
 
 ## 확인된 버전
 - [x] Ark Survival Evolved (v322.9)
